@@ -37,9 +37,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nicolas-santos-2b5a5b369?utm_source=share&amp;utm_campaign=share_via&amp;utm_content=profile&amp;utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
   <a href="https://www.instagram.com/_niickzs_?igsh=MWc2YmhrZjl0bjR1dA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
