@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=nickzsd&theme=tokyonight&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=nickzsd&locale=pt-br&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=nickzsd&theme=tokyonight&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickzsd&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false&custom_title=Linguagens%20favoritas" height="160" alt="languages graph"  />
 </div>
 
