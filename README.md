@@ -2,18 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=nickzsd&theme=tokyonight&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickzsd&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false&custom_title=Linguagens%20favoritas" height="160" alt="languages graph"  />
-</div>
-
 ###
 
-<!--<img align="left" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlqejZtaDk3dWF0MXlyN3JoaXg5NDdlYXZrcHU5b2VwMHFuM2R6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif"  />!-->
-
-###
-
-<div align="center">
+<div align="Right">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -35,11 +26,13 @@
 
 ###
 
+<!--
 <div align="center">
   <a href="https://www.instagram.com/_niickzs_?igsh=MWc2YmhrZjl0bjR1dA==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+-->
 
 ###
 
