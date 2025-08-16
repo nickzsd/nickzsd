@@ -1,10 +1,10 @@
-<h3 align="center">Olá me chamo Nicolas Santos</h3>
+<h3 align="Left">Sou chamo Nicolas Santos</h3>
 
 ###
 
 ###
 
-<div align="Right">
+<div align="Left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
