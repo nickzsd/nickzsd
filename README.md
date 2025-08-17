@@ -1,7 +1,7 @@
-<h1 align="left">Olá 👋, me chamo nicolas Santos</h1>
-<h3 align="left">Um desenvolvedor Full-Stack</h3>
+<h1 align="center">Olá 👋, me chamo nicolas Santos</h1>
+<h3 align="center">Um desenvolvedor Full-Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickzsd&label=Profile%20views&color=0e75b6&style=flat" alt="nickzsd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nickzsd&label=Profile%20views&color=0e75b6&style=flat" alt="nickzsd" /> </p>
 
 <h3 align="left">Conecte-se Comigo:</h3>
 <div display='flex'>
