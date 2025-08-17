@@ -1,9 +1,16 @@
-<h3 align="Left">Sou Nicolas Santos</h3>
+<h1 align="left">Olá 👋, me chamo nicolas Santos</h1>
+<h3 align="left">Um desenvolvedor Full-Stack</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nickzsd&label=Profile%20views&color=0e75b6&style=flat" alt="nickzsd" /> </p>
 
-###
+<h3 align="left">Conecte-se Comigo:</h3>
+<div display='flex'>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolas-santos-2b5a5b369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-santos-2b5a5b369" height="30" width="40" /></a>
+</p>
+</div>
 
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <div align="Left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -23,19 +30,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
 </div>
-
-###
-
-<!--
-<div align="center">
-  <a href="https://www.instagram.com/_niickzs_?igsh=MWc2YmhrZjl0bjR1dA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
--->
-
-###
-
-<br clear="both">
-
-###
